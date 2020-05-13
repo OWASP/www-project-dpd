@@ -1,10 +1,10 @@
 ---
 
 layout: col-sidebar
-title: OWASP DPD
-tags: example-tag
+title: OWASP DPD (Ddos Preventing Using DPI)
+tags: Traffic Analysis
 level: 1
-type: 
+type: Documentation,Code
 pitch: A very brief, one-line description of your project
 
 ---
