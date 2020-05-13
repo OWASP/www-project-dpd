@@ -1,10 +1,10 @@
 ---
 
 layout: col-sidebar
-title: OWASP DPD (Ddos Preventing Using DPI)
-tags: Traffic Analysis
-level: 1
-type: Documentation,Code
+title: OWASP DPD (DDOS Preventing using DPI)
+tags: 
+level: 2
+type: Documentation, Code
 pitch: A very brief, one-line description of your project
 
 ---
