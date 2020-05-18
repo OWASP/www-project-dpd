@@ -8,8 +8,13 @@
 * [Download](#)
 * [Meetup](#)
 
+
+### Documents License
+
+* [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) CC BY-SA 4.0
+
+### Tools License 
+* The OWASP Amass Project is free to use under the MIT 2.0 License.
+
 ### Main Collaborator
 * [Moein Izadi](#)
-
-
-
