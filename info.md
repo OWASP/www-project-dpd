@@ -9,9 +9,8 @@
 * [Download](#)
 * [Meetup](#)
 
-### Code Repository
-* [repo](#)
+### Main Collaborator
+* [Moein Izadi](#)
 
-### Change Log
-* [changes](#)
+
 
