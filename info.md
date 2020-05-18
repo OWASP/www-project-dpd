@@ -5,8 +5,7 @@
 
 
 ### Social Links
-* [Download](#)
-* [Meetup](#)
+* Follow the DPD project on Twitter at: @OWASP_DPD
 
 
 ### Documents License
