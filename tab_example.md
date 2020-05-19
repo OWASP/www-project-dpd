@@ -10,17 +10,17 @@ tags: dpd
 ## OWASP DPD Project Roadmap 
 The below steps are just a summary of the steps we will take in this project. *Note: details of steps will be published till next week. 
 
-* ** What is Deep Packet Inspection, Medium Packet Inspection and Shallow Packet Inspection ?**
+****What is Deep Packet Inspection, Medium Packet Inspection and Shallow Packet Inspection?**
 
 * Difference between SPI, MPI and DPI.
 
 * Important dimensions in traffic analysis.
 
-* Traffic analysis with Deep Packet Inspection techniques and Micro-Analysis mechanism.
+* Traffic analysis with Deep Packet Inspection techniques and Micro-Analysis mechanism.
 
 * Learning open source  tools for traffic analysis and DPI.
 
-* ** Explanation and investigation of network traffic attack.**
+****Explanation and investigation of network traffic attack.**
 
 * What is the impact of DDoS attacks ? 
 
@@ -32,7 +32,7 @@ The below steps are just a summary of the steps we will take in this project. *N
 
 * Deep analysis of all the network traffic attacks methods in Layer 7.
 
-* ** How we can prevent against DDoS Attacks?**
+****How we can prevent against DDoS Attacks?**
 
 * Full explanation of DAQ's, Conntrack and Hardware Offloaded techniques.
 
@@ -45,5 +45,5 @@ The below steps are just a summary of the steps we will take in this project. *N
 * Write down Signature to deal with Attacks Based on Patterns Extracted in the Traffic Analysis stage. (We will write signatures of all methods using Snort, Openappid, ebpf and Luajit)
 
 
-* **Simulate  DDoS attack methods one by one and check the performance of our DDoS Mitigation Box.**
+****Simulate  DDoS attack methods one by one and check the performance of our DDoS Mitigation Box.**
 
