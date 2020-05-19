@@ -8,7 +8,7 @@ type: Documentation, Tool
 
 
 ---
-## What is the DPDD?
+## What is the DPD?
 
 The OWASP DDoS Prevention using DPI (DPD) Project includes  Methods, Strategies, Documents and Programs to dealing against DDoS attacks using Deep Packet Inspection, Medium Packet Inspection and Shallow Packet Inspection.
 
