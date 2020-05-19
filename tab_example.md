@@ -1,12 +1,9 @@
 ---
-title: Example
-layout:  null
+title: newsevents
 displaytext: News and Events
+layout: null
 tab: true
-order: 2
-tags: example-tag
+order: 1
+tags: DPD
 ---
-
-## Example
-
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+[![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
