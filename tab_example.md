@@ -1,6 +1,7 @@
 ---
 title: Example
 layout:  null
+displaytext: News and Events
 tab: true
 order: 1
 tags: example-tag
