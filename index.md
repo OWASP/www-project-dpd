@@ -5,7 +5,7 @@ title: OWASP DPD (DDOS Prevention using DPI)
 tags: DPD
 level: 2
 type: Documentation, Tool
-pitch: DPD DDOS Prevention Using Deep Packet Inspection and Accurate Traffic Analysis 
+
 
 ---
 ## What is the DPD?
