@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP DPD (DDOS Prevention using DPI)
-tags: DPD
+tags: example-DPD
 level: 2
 type: Documentation, Tool
 
