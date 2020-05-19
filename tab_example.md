@@ -3,7 +3,7 @@ title: Example
 layout:  null
 displaytext: News and Events
 tab: true
-order: 1
+order: 2
 tags: example-tag
 ---
 
