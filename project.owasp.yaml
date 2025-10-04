@@ -1,0 +1,20 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Mohammad Hossein Golhassani
+    email: mohammad.hossein.golhassani@owasp.org
+    github: seyedgol
+level: 2
+name: OWASP DPD (DDOS Prevention using DPI)
+pitch: Description for OWASP DPD (DDOS Prevention using DPI)
+repositories:
+  - name: www-project-dpd
+    url: https://github.com/OWASP/www-project-dpd
+    description: OWASP Foundation Web Repository
+tags:
+  - dpd
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-dpd
